@@ -1,4 +1,5 @@
-## Olá, Eu sou o Kaue Cruz, Estudante de Engenharia Mecânica da UTFPR Campus Cornélio Procópio!
+## Olá, Eu sou o Kaue Cruz. 
+Estudante de Engenharia Mecânica da UTFPR Campus Cornélio Procópio!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ka-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying on Mechanical Engineering at [UTFPR Campus Cornélio Procópio](https://www.utfpr.edu.br)
 
-- 🌱 I’m currently learning: **Xfrl5, AVL, Ansys Fluente, Obsidian, GitHub, GitLab**
+- 🌱 I’m currently learning: **Xfrl5, AVL, Ansys Fluent, Obsidian, GitHub, GitLab**
 
 - 👯 I’m looking to collaborate on [Abutres Aerodesign](https://www.instagram.com/abutresaerodesign/)
 

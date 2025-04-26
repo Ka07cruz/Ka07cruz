@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaue Cruz</h1>
-- 🔭 I’m currently studying on [Mechanical Engineering - UTFPR Campus Cornélio Procópio](https://www.utfpr.edu.br)
+
+- 🔭 I’m currently studying on Mechanical Engineering - UTFPR Campus Cornélio Procópio (https://www.utfpr.edu.br)
 
 - 🌱 I’m currently learning **Xfrl5, AVL, Ansys Fluente, Obsidian, GitHub, GitLab**
 

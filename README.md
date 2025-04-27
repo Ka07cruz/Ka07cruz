@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, I'm Kaue Cruz</h1>
 
-- 🔭 I’m currently studying on Mechanical Engineering at [UTFPR Campus Cornélio Procópio](https://www.utfpr.edu.br)
+- 🔭 🏫 I’m currently studying on Mechanical Engineering at [UTFPR Campus Cornélio Procópio](https://www.utfpr.edu.br)
 
 - 🌱 I’m currently learning: **Xfrl5, AVL, Ansys Fluent, Obsidian, GitHub, GitLab**
 
-- 👯 I’m looking to collaborate on [Abutres Aerodesign](https://www.instagram.com/abutresaerodesign/)
+- 🛩 I’m looking to collaborate on [Abutres Aerodesign](https://www.instagram.com/abutresaerodesign/)
 
 - 🤝 I’m looking for help with [Aliança Bíblica Universitária - ABU](https://www.instagram.com/abu.utfprcp/)
 
